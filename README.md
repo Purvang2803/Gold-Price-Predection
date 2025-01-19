@@ -21,7 +21,7 @@ This project predicts **gold prices (GLD)** using various financial data, includ
 2. **Gold Price Distribution**: Histogram to see how gold prices are distributed (with a smooth KDE curve).
 3. **30-Day Rolling Average**: Smoothing technique to highlight long-term price trends.
 4. **Interactive Gold Price Trend**: Interactive plot using Plotly for users to zoom and explore data in more detail.
-# Gold Price Prediction 📉💰
+
 
 
 ## Conclusion 🔑
